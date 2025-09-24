@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a software engineer focused on building full-stack applications, with a strong specialization in frontend development. I enjoy creating seamless, user-friendly interfaces while ensuring the systems behind them are efficient and reliable.
+Software engineer by title, problem-solver by habit. Full-stack thinker, frontend enthusiast—making code clean and interfaces cleaner.
 
 
 ## 🌐 Socials:
