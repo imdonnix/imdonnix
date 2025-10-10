@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer by title, problem-solver by habit. Full-stack thinker, frontend enthusiast—making code clean and interfaces cleaner.
+I code sometimes, xd :)
 
 
 ## 🌐 Socials:
