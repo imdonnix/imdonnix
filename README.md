@@ -1,7 +1,7 @@
 # 💫 About Me:
 I code sometimes, xd :)
 
-tiny.cc/iamdonnyx
+Please copy and paste me on your browser. -> tiny.cc/iamdonnyx (My portfolio)
 
 
 ## 🌐 Socials:
